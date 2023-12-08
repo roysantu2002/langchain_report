@@ -1,0 +1,10 @@
+https://github.com/pgvector/pgvector?tab=readme-ov-file#docker
+
+
+https://hub.docker.com/_/postgres
+
+ docker run --name pgvector-demo -e POSTGRES_PASSWORD=postgres -p 5432:5432 ankane/pgvector
+
+ https://bugbytes.io/posts/vector-databases-pgvector-and-langchain/
+
+ https://blog.nextideatech.com/chat-with-documents-using-langchain-gpt-4-python/
